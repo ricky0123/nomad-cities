@@ -1,0 +1,7 @@
+.vscode/
+data/
+__pycache__/
+models/
+annotations/
+*.code-workspace
+
